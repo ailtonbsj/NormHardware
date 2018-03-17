@@ -1,0 +1,63 @@
+{
+	"Screens": [{
+		"Brand" : "",
+		"Model" : "",
+		"Inches" : "",
+		"Size" : ""
+	}],
+	"Pointers" : [{
+		"Name" : ""
+	}],
+	"Keyboards" : [{
+		"Name" : ""
+	}],
+	"Motherboard" : {
+		"Brand" : "",
+		"Model" : ""
+	},
+	"Processors" : [{
+		"Name" : "",
+		"Freq" : "",
+		"Nucleos" : ""
+	}],
+	"Rams" : [{
+		"Size" : "",
+		"SlotNum" : "",
+		"SlotType" : "",
+		"Slots" : [
+			"NoModuleInstalled",
+			"1024MB"
+		]
+	}],
+	"Storages" : [{
+		"Type" : "",
+		"Size" : "",
+		"Partitions" : [
+			{
+			"Name" : "",
+			"Size" : "",
+			"Mount" : ""
+			}
+		]
+	}],
+	"OpticalStorages" : [{
+		"Brand" : "",
+		"Type" : ""
+	}],
+	"PowerSource" : [{
+		"Brand" : ""
+	}],
+	"Nics" : [{
+		"Name" : "",
+		"Mac" : "",
+		"Ip" : "",
+		"Mask" : "",
+		"Bcast" : ""
+	}],
+	"OS": {
+		"Dist" : "",
+		"Host" : "",
+		"Gui" : ""
+	},
+	"ExternalIp" : ""
+}
